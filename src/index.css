@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  body{
+    @apply font-[Poppins]
+  }
+
+  .avatar{
+    @apply w-[24px] h-[24px]  !important
+  }
+
+
+  body{
+    @apply bg-[#F2F3EF]
+  }
+
+
+
+
+
+
+}
